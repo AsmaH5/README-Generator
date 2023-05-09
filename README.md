@@ -26,7 +26,7 @@
   
   ## Contributing
   
-  undefined
+  N/A
   
   ## Tests
   
