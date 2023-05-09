@@ -20,8 +20,8 @@
   
   Run it in the terminal.
 
-    ![Screenshot1](https://github.com/AsmaH5/README-Generator/assets/97250633/ca9adecf-0391-4b75-a5d5-c19d465c505d)
-    ![Screenshot2](https://github.com/AsmaH5/README-Generator/assets/97250633/331e70e1-9373-494b-a579-9b5e521ab4df) 
+  ![Screenshot1](https://github.com/AsmaH5/README-Generator/assets/97250633/ab701f6b-a48b-4b36-8236-113bcc0c98df)
+  ![Screenshot2](https://github.com/AsmaH5/README-Generator/assets/97250633/6a467ec2-de67-400e-91cf-68db778bd8a6) 
     
   ## License
   
