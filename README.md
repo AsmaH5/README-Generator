@@ -21,7 +21,8 @@
   Run it in the terminal.
 
     ![Screenshot1](https://github.com/AsmaH5/README-Generator/assets/97250633/ca9adecf-0391-4b75-a5d5-c19d465c505d)
-    ![Screenshot2](https://github.com/AsmaH5/README-Generator/assets/97250633/331e70e1-9373-494b-a579-9b5e521ab4df)
+    ![Screenshot2](https://github.com/AsmaH5/README-Generator/assets/97250633/331e70e1-9373-494b-a579-9b5e521ab4df) 
+    
   ## License
   
   This project is licensed under the MIT license.
