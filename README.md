@@ -19,6 +19,7 @@
   ## Usage
   
   Run it in the terminal.
+  ![Watch Video](https://github.com/AsmaH5/README-Generator/assets/97250633/f57628c0-adaf-4b90-ac2d-b5c130cbee4a)
     ![Screenshot1](https://github.com/AsmaH5/README-Generator/assets/97250633/ca9adecf-0391-4b75-a5d5-c19d465c505d)
     ![Screenshot2](https://github.com/AsmaH5/README-Generator/assets/97250633/331e70e1-9373-494b-a579-9b5e521ab4df)
   ## License
