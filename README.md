@@ -33,7 +33,14 @@ https://github.com/AsmaH5/README-Generator/assets/97250633/a9736fd8-21b4-4851-a9
   
   ## Contributing
   
-  N/A
+ If you would like to contribute to this project please follow the steps below:
+
+1. Fork the repository on Github.
+2. Clone the forked repository to your local machine.
+3. Make changes to the code on your local machine using a code editor.
+4. Commit the changes to your local repository.
+5. Push the changes to your forked repository.
+6. Create a pull request on the original repository's Github page to merge your changes into the main codebase.
   
   ## Tests
   
