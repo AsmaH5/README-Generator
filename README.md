@@ -23,7 +23,7 @@
     ![Screenshot2](https://github.com/AsmaH5/README-Generator/assets/97250633/331e70e1-9373-494b-a579-9b5e521ab4df)
   ## License
   
-  MIT
+  This project is licensed under the MIT license.
   
   ## Contributing
   
