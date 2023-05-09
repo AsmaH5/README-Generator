@@ -1,5 +1,4 @@
 const fs = require("fs");
-const path = require('path');
 const inquirer = require("inquirer");
 
 
@@ -39,7 +38,7 @@ const questions = [
     {
       type: 'input',
       name: 'Contributing',
-      message: 'Who has contributed to this project?',
+      message: 'Who contributed to this project?',
     },
     {
       type: 'input',

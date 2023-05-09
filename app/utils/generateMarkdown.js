@@ -28,7 +28,7 @@ function generateMarkdown(data) {
   
   ## Contributing
   
-  ${data.Contributing}
+  ${data.contributing}
   
   ## Tests
   
